@@ -3,6 +3,7 @@ package examples;
 import org.jointheleague.graphical.robot.Robot;
 
 public class IntroToRobot {
+	
 	public static void main(String[] args) {
 
 		Robot r2d2 = new Robot();
